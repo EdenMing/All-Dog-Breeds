@@ -1,6 +1,6 @@
 This is a list with all the registered AKC dog breeds as well as their rated characteristics, filter 'em out to see which is the right dog for you, or make that into an app for people to choose their favorite dog
 
-Affectionate With Family
+Affectionate With Family/n
 Good With Young Children	
 Good With Other Dogs	
 Shedding Level	
