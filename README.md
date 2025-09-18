@@ -1,4 +1,4 @@
-This is a list with all the registered akc dog breed as well as their rated characteristics, filter 'em out to see which is right dog for, or make that into a app for people to choose their favorite dog
+This is a list with all the registered AKC dog breeds as well as their rated characteristics, filter 'em out to see which is the right dog for you, or make that into an app for people to choose their favorite dog
 
 Affectionate With Family
 Good With Young Children	
